@@ -18,7 +18,7 @@ Ao acompanhar este tutorial, você compreenderá a lógica por trás de todas as
 
 Não perca a oportunidade de desenvolver suas habilidades em desenvolvimento web, criando uma aplicação com funcionalidades úteis e interativas. Vamos embarcar juntos nesta jornada rumo ao mundo da programação web avançada!
 
-Então, sem mais delongas, vamos mergulhar nessa jornada de criação de um WHATSAPP WEB com React, Node.js e SQLite3 para gerenciamento de produtos. Espero que vocês gostem e que esse projeto seja útil para vocês. Não se esqueçam de deixar seus comentários e sugestões abaixo. Aproveitem o vídeo!
+Então, sem mais delongas, vamos mergulhar nessa jornada de criação de um WHATSAPP WEB com React, Node.js e SQLite3.
 
 Se gostou do projeto peço que se subscrevam e dêem like.
 
