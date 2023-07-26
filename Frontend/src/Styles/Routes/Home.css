@@ -1,0 +1,23 @@
+.home_section{
+    display: flex;
+    width: 100vw;
+    height: 84.5vh;
+}
+aside{
+    width: 30vw;
+    min-height: 84.5vh;
+}
+.home_article{
+    width: 70vw;
+    overflow: hidden;
+}
+.link_to_profile{
+    width: 30vw;
+    height: 4vh;
+    padding-top: 0.4vh;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    background-color: #202c33;
+    position: fixed;
+}

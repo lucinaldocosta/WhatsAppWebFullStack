@@ -1,0 +1,21 @@
+header{
+    background-color: #101a74;
+    width: 100vw;
+    height: 7.5vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 2px  4px rgba(0, 0, 0, 0.3);
+}
+h1{
+    color: #fff;
+    font-size: 1.5rem;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+@media (max-width: 768px){
+    h1{
+        font-size: 1.2rem;
+    }
+}

@@ -1,0 +1,61 @@
+.section_messages{
+    min-height: 78.5vh;
+    width: 70vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url("https://e1.pxfuel.com/desktop-wallpaper/461/478/desktop-wallpaper-whatsapp-dark-whatsapp-chat.jpg");
+    background-size: contain;
+}
+.title_head_friend_name{
+    width: 70vw;
+    height: 4.5vh;
+    padding-top: 0.4vh;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    background-color: #202c33;
+    position: fixed;
+}
+.section_send_messages_off{
+    display: none;
+}
+.section_send_messages{
+    width: 70vw;
+    height: 5.95vh;
+    position: fixed;
+    background-color: #202c33;
+}
+.article_send_messages{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.input_messages{
+    background-color: #2a3942;
+    width: 80%;
+    height: 70%;
+    color: #fff;
+    padding-left: 10px;
+    border: 0.7px solid #1d2225;
+    border-radius: 10px;
+}
+.input_messages:focus{
+    outline: none;
+    border: none;
+}
+.input_messages::placeholder{
+    color: #838688;
+    padding: 10px;
+}
+.button_send_messages{
+    background-color: #2a3942;
+    border-radius: 18px;
+    margin-left: 20px;
+    width: 10%;
+    height: 70%;
+    color: #fff;
+}

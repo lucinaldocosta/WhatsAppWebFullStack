@@ -1,0 +1,22 @@
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #101a74;
+    width: 100vw;
+    height: 8vh;
+    position: relative;
+    overflow: hidden;
+}
+.copyright{
+    text-align: center;
+    padding: 2vh 0;
+    font-weight: bold;
+    color: #eee;
+    font-size: 1.2rem;
+}
+@media (max-width: 768px){
+    .copyright{
+        font-size: 1rem;
+    }
+}
